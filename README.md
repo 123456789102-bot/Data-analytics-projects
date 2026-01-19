@@ -1,29 +1,25 @@
-# Data-analytics-projects
-Beginner Data Analytics projects using Python, Streamlit, and Power BI
-# Financial News Summarizer
+# Data-analytics-project
+# Data Analytics Portfolio Projects
 
-## Overview
-This project is an AI-powered web application that extracts financial news from an online article, summarizes it using NLP, and analyzes market sentiment.
+This repository contains end-to-end data analytics and machine learning projects
+built to demonstrate real-world problem solving skills using Python, SQL,
+Machine Learning, and Business Intelligence tools.
 
-## Tools & Technologies
-- Python
-- Streamlit
-- Hugging Face Transformers
-- BeautifulSoup
-- Vader Sentiment Analysis
+## Projects
 
-## Features
-- Extracts full news article from URL
-- Generates concise summary using BART model
-- Analyzes sentiment (Bullish / Bearish / Neutral)
-- Interactive web interface using Streamlit
+### 1. AI-Powered Financial News Summarizer
+- Uses NLP and Generative AI to summarize financial news articles
+- Performs sentiment analysis to classify news as Bullish, Bearish, or Neutral
+- Tech: Python, Streamlit, Hugging Face, VADER
 
-## How to Run
-1. Install dependencies  
-   pip install -r requirements.txt
+### 2. Loan Risk Predictor
+- Predicts loan default risk using customer financial data
+- Includes EDA, feature engineering, and machine learning modeling
+- Tech: Python, Pandas, Scikit-learn
 
-2. Run the app  
-   streamlit run app.py
+### 3. Executive Financial Performance Dashboard
+- Interactive Power BI dashboard for business performance analysis
+- Includes KPIs like Revenue, YoY Growth, and Profit
+- Tech: Power BI, DAX
 
-## Outcome
-Provides quick insights into financial news for investors and analysts.
+
